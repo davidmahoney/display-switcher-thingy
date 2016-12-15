@@ -28,3 +28,6 @@ RESOURCES += \
     resources.qrc
 
 LIBS += -lUser32
+
+DISTFILES += \
+    readme.md
